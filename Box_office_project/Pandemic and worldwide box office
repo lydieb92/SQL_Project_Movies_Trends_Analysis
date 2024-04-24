@@ -1,0 +1,16 @@
+-- We aimed to investigate the worldwide earnings from 2018 to 2024 to determine if the pandemic had an impact on earnings over time.
+SELECT
+  year::integer AS release_year,
+  CONCAT(
+     '$',
+     RTRIM(TO_CHAR(SUM(worldwide_inflation), 'FM999,999,999,999.99'), '.')
+ ) AS total_worldwide
+FROM
+  box_office_2018_2024
+WHERE
+  year BETWEEN 2018 AND 2024
+GROUP BY
+  year::integer
+
+ORDER BY
+  SUM(worldwide_inflation) DESC;

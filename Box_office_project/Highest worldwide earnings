@@ -1,0 +1,21 @@
+SELECT
+ id,
+ release_group,
+ year,
+ Worldwide
+FROM (
+   SELECT DISTINCT
+       id,
+       release_group,
+       CONCAT(
+           '$',
+           RTRIM(TO_CHAR(ROUND(worldwide_inflation, 2), 'FM999,999,999,999.99'), '.')
+       ) AS Worldwide,
+       worldwide_inflation,
+       year
+   FROM
+       box_office_2018_2024
+) AS subquery
+ORDER BY
+   worldwide_inflation DESC
+LIMIT 10;

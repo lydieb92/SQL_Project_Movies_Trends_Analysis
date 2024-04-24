@@ -1,0 +1,7 @@
+SELECT genre, COUNT(*) AS genre_count
+FROM (
+   SELECT COALESCE(genre_1, genre_2, genre_3) AS genre FROM top_50_genres
+) AS all_genres
+GROUP BY genre
+ORDER BY genre_count DESC
+LIMIT 3;

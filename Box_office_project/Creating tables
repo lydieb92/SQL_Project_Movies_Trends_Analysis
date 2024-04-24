@@ -1,0 +1,46 @@
+
+CREATE TABLE box_office_2018_2024(
+  ID INT,
+  Year INT,
+  Release_Group TEXT,
+  Worldwide_gross DECIMAL(20,2) NULL,
+  Inflation_rate DECIMAL(20,2) NULL,
+  Worldwide_inflation DECIMAL(20,2) NULL,
+  Domestic DECIMAL(20,2) NULL,
+  Domestic_inflation DECIMAL(20,2) NULL,
+  Foreign_gross DECIMAL(20,2) NULL,
+  Foreign_inflation DECIMAL(20,2) NULL
+);
+COPY box_office_2018_2024 FROM '/private/var/tmp/CSV files/box_office_2018_2024.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+
+CREATE TABLE top_50_2018_2024(
+  ID INT,
+  Year INT,
+  Release_Group TEXT,
+  Worldwide_gross DECIMAL(20,2) NULL,
+  Inflation_rate DECIMAL(20,2) NULL,
+  Worldwide_inflation DECIMAL(20,2) NULL,
+  Domestic DECIMAL(20,2) NULL,
+  Domestic_inflation DECIMAL(20,2) NULL,
+  Foreign_gross DECIMAL(20,2) NULL,
+  Foreign_inflation DECIMAL(20,2) NULL
+);
+DROP TABLE top_50_2018_2024
+COPY top_50_2018_2024 FROM '/private/var/tmp/CSV files/Top 50 Box office 2018-2024.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+
+CREATE TABLE top_50_genres (
+  ID INT,
+  Release_group TEXT,
+  Runtime VARCHAR(307) NULL,
+  Metascore NUMERIC(20, 2) NULL,
+  Rated VARCHAR(307) NULL,
+  Year VARCHAR(307),
+  Genre_1 TEXT NULL,
+  Genre_2 TEXT NULL,
+  Genre_3 TEXT NULL,
+  Sequel BOOLEAN NULL
+);
+
+
+COPY top_50_genres FROM '/private/var/tmp/CSV files/Top 50 2018-2024_genres.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+
