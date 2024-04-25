@@ -166,7 +166,7 @@ According to sources, the average running time of movies typically falls between
 
 From this perspective, one might assume that longer films are less attractive options. However, when we examine the worldwide top-grossing movies from 2018 to 2024, it becomes evident that lengthy runtimes are not necessarily a deterrent for audiences.
 
-# Correlation between sequels and box office number
+# Examining the relationship between sequels and box office number
 I examined the relationship between box office success and sequels by running an inner join SQL query to retrieve the sequel values and top 10 grossing films. From there, I analyzed the data to find the correlation between movies that are sequels and box office success.
 
 ``` SQL
