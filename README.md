@@ -85,7 +85,7 @@ LIMIT 10;
 - Animation follows closely, accounting for 17% of the pie chart.
 - Drama emerges as the third favorite genre, capturing 15% of the top worldwide gross film earnings over the past six years.
 
-# Correlating film metascore ratings with box office performance
+# Examining the Relationship Between Film Metascore Ratings and Box Office Performance
 
 I analyzed the relationship between box office success and film metascore ratings among the top ten grossing films (2018-2024) by performing an inner join on two tables to retrieve the ratings of these films.
 
