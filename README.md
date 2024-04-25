@@ -28,7 +28,7 @@ d. Git & GitHub: Essential for version control and sharing my SQL scripts and an
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the box office market.
 
-All worldwide earnings have been adjusted with the inflation rate for each year. 
+This project was created in April 2024, so the box office data for the year 2024 only includes films released up to April 2024. Additionally, the inflation rate has been applied to the years 2018, 2019, 2020, 2021, 2022, and 2023.
 
  ## 1. Top Grossing Films (2018-2024)
  To identify the top movies with the highest worldwide earnings, I filtered the ID, release group (movie title), the year (the release year), and the worldwide earnings, and then ordered them in descending order. "Worldwide inflation" refers to the worldwide earnings adjusted for inflation rates.
@@ -69,3 +69,16 @@ Here's the breakdown of the most successful movies at the box office from 2018 t
 ## The Top Popular Film Genres(2018-2024)
 
 To identify the top film genres (2018-2024), I counted the number of occurrences of each genre among the top 50 grossing films for each year from 2018 to 2024.
+
+``` sql
+SELECT genre, COUNT(*) AS genre_count
+FROM (
+   SELECT COALESCE(genre_1, genre_2, genre_3) AS genre FROM top_50_genres
+) AS all_genres
+GROUP BY genre
+ORDER BY genre_count DESC
+LIMIT 10;
+```
+## Top 10 Film Genres(2018-2024)
+
+<img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Pie%20Chart%20Popular%20genres%20(2018-2024).png">
