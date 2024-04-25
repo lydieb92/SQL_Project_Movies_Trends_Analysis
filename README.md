@@ -56,4 +56,9 @@ ORDER BY
    worldwide_inflation DESC
 LIMIT 10;
 ```
+Here's the breakdown of the most successful movies at the box office from 2018 to 2024: 
+
+(Please note that as of April 2024, the year 2024 is not yet concluded so the numbers provided may vary by the end of 2024.)
+
+
 
