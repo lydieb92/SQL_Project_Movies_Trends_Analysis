@@ -68,4 +68,4 @@ Here's the breakdown of the most successful movies at the box office from 2018 t
 
 ## The Top Popular Film Genres(2018-2024)
 
-
+To identify the top film genres (2018-2024), I counted the number of occurrences of each genre among the top 50 grossing films for each year from 2018 to 2024.
