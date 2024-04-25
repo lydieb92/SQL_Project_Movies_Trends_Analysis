@@ -135,3 +135,6 @@ LIMIT 10;
 
 - Only Black Panther has earned a worldwide gross of more than $1 billion. Despite their high ratings, the rest of the films do not achieve the same level of financial success as the top 10 grossing films. In fact, they fail to reach the $1 billion mark in comparison.
 - We can conclude that there is no correlation between a film's rating and its box office success, whether high or low.
+
+# Film Runtime and Audience Engagement
+I examined the relationship between film runtime and audience engagement among the top ten grossing films from 2018 to 2024. This analysis involved performing an inner join on two tables to retrieve the film runtimes and worldwide gross earnings.
