@@ -30,7 +30,7 @@ Each query for this project aimed at investigating specific aspects of the box o
 
 All worldwide earnings have been adjusted with the inflation rate for each year. 
 
- ## 1. Top movies with the highest worldwide earnings
+ ## 1. Top Grossing Films (2018-2024)
  To identify the top movies with the highest worldwide earnings, I filtered the ID, release group (movie title), the year (the release year), and the worldwide earnings, and then ordered them in descending order. "Worldwide inflation" refers to the worldwide earnings adjusted for inflation rates.
 
 ``` sql
@@ -60,5 +60,6 @@ Here's the breakdown of the most successful movies at the box office from 2018 t
 
 (Please note that as of April 2024, the year 2024 is not yet concluded so the numbers provided may vary by the end of 2024.)
 
+![Top Grossing Films (2018-2024)]()
 
 
