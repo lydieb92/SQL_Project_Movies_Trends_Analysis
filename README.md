@@ -111,3 +111,22 @@ LIMIT 10;
 
 
 However, for verification purposes, I executed an additional SQL query to analyze films with high ratings. Employing the same inner join query, I sorted the results by rating rather than worldwide gross earnings, thereby identifying the films with the highest Metascore ratings.
+
+``` SQL
+SELECT
+ top_50_2018_2024.id,
+ top_50_2018_2024.release_group,
+ top_50_2018_2024.year,
+ CONCAT('$', TRIM(TRAILING '.' FROM TO_CHAR(top_50_2018_2024.worldwide_inflation, 'FM999,999,999,999.99'))) AS worldwide_inflation,
+ top_50_genres.metascore
+FROM
+ top_50_2018_2024
+INNER JOIN
+ top_50_genres ON top_50_2018_2024.id = top_50_genres.id
+WHERE
+ top_50_genres.metascore IS NOT NULL
+ORDER BY
+ top_50_genres.metascore DESC,
+ top_50_2018_2024.worldwide_inflation DESC
+LIMIT 10;
+```
