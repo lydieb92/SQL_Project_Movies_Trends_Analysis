@@ -80,3 +80,6 @@ LIMIT 10;
 ## Top 10 Most Popular Film Genres (2018-2024)
 <img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Top%2010%20Film%20Genres%20pie%20chart.png">
 
+- Action leads by contributing to 37% of successful movies in the box office from 2018-2024.
+- Animation follows closely, accounting for 17% of the pie chart.
+- Drama emerges as the third favorite genre, capturing 15% of the top worldwide gross film earnings over the past six years.
