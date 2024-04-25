@@ -104,5 +104,5 @@ ORDER BY
 LIMIT 10;
 ```
 ## Top 10 grossing films ratings
-<img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Correlation%20box%20office%20success%20%26%20film%20rating%201.png">
+
 
