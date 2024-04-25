@@ -28,9 +28,10 @@ d. Git & GitHub: Essential for version control and sharing my SQL scripts and an
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the box office market.
 
- ## 1. Top movies with the highest worldwide earnings
- To identify the top movies with the highest worldwide earnings, I filtered the ID, release group (movie title), the year (the release year), and the worldwide earnings, and then ordered them in descending order.
+All worldwide earnings have been adjusted with the inflation rate for each year. 
 
+ ## 1. Top movies with the highest worldwide earnings
+ To identify the top movies with the highest worldwide earnings, I filtered the ID, release group (movie title), the year (the release year), and the worldwide earnings, and then ordered them in descending order. "Worldwide inflation" refers to the worldwide earnings adjusted for inflation rates.
 
 ``` sql
 SELECT
