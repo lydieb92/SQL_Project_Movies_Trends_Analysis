@@ -165,3 +165,19 @@ From this perspective, one might assume that longer films are less attractive op
 
 # Correlation between sequels and box office number
 I examined the relationship between box office success and sequels by running an inner join SQL query to retrieve the sequel values and top 10 grossing films. From there, I analyzed the data to find the correlation between movies that are sequels and box office success.
+
+``` SQL
+SELECT
+ top_50_2018_2024.id,
+ top_50_2018_2024.release_group,
+ top_50_2018_2024.year,
+ CONCAT('$', TRIM(TRAILING '.' FROM TO_CHAR(top_50_2018_2024.worldwide_inflation, 'FM999,999,999,999.99'))) AS worldwide,
+ top_50_genres.sequel
+FROM
+ top_50_2018_2024
+INNER JOIN
+ top_50_genres ON top_50_2018_2024.id = top_50_genres.id
+ORDER BY
+  top_50_2018_2024.worldwide_inflation DESC
+LIMIT 10;
+```
