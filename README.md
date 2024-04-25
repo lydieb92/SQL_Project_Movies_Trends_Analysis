@@ -14,12 +14,6 @@ The questions I wanted to answer through my SQL queries were:
 5. What is the correlation between sequels and box office numbers?
 6. How did the pandemic affect the worldwide box office?
 
-<<<<<<< HEAD
-Tools I Used
-
-
-
-=======
 ## Tools I used
 For my deep dive into the movie data analysis market, I harnessed the power of several key tools:
 
