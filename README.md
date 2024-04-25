@@ -212,3 +212,6 @@ LIMIT 10;
 * PG: Parental guidance suggested
 * G: General audiences
 <img src="Assets/Top 10 Grossing Films and Their Ratings.png">
+
+- All top 10 grossing films are suitable for general audiences. Parental guidance indicates that a movie may contain some scenes unsuitable for young children, but these movies are generally considered family-friendly.
+- 
