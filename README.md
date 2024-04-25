@@ -84,9 +84,11 @@ LIMIT 10;
 - Animation follows closely, accounting for 17% of the pie chart.
 - Drama emerges as the third favorite genre, capturing 15% of the top worldwide gross film earnings over the past six years.
 
-# Correlating film ratings with box office performance
+# Correlating film metascore ratings with box office performance
 
-I analyzed the relationship between box office success and film ratings among the top ten grossing films (2018-2024) by performing an inner join on two tables to retrieve the ratings of these films.
+I analyzed the relationship between box office success and film metascore ratings among the top ten grossing films (2018-2024) by performing an inner join on two tables to retrieve the ratings of these films.
+
+Metascore: A film's rating based on reviews from a wide array of respected critics. Weighted averages summarize their collective opinions.e.
 
 ``` SQL
 SELECT
@@ -103,7 +105,7 @@ ORDER BY
   top_50_2018_2024.worldwide_inflation DESC
 LIMIT 10;
 ```
-## Top 10 Grossing Films Ratings
+## Top 10 Grossing Films Metascore Ratings
 <img src="Assets/Top 10 Grossing Film Ratings.png">
 
 - Of the top 10 grossing films from 2018 to 2024, 5 have a Metascore rating above 70, while the remaining 5 have a Metascore rating below 70
@@ -133,7 +135,7 @@ LIMIT 10;
 ## Top 10 Highly Rated Films
 <img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Top%2010%20Highly%20Rated%20Films.png">
 
-- Only Black Panther has earned a worldwide gross of more than $1 billion. Despite their high ratings, the rest of the films do not achieve the same level of financial success as the top 10 grossing films. In fact, they fail to reach the $1 billion mark in comparison.
+- Only Black Panther has earned a worldwide gross of more than $1 billion. Despite their high metascore ratings, the rest of the films do not achieve the same level of financial success as the top 10 grossing films. In fact, they fail to reach the $1 billion mark in comparison.
 - We can conclude that there is no correlation between a film's rating and its box office success, whether high or low.
 
 # Film Runtime and Audience Engagement
