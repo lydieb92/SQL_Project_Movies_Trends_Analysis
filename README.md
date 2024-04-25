@@ -104,7 +104,7 @@ ORDER BY
 LIMIT 10;
 ```
 ## Top 10 Grossing Films Ratings
-<img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Top%2010%20grossing%20film%20ratings%20-%20Table%201.png">
+<img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Top%2010%20Highly%20Rated%20Films.png">
 
 - Of the top 10 grossing films from 2018 to 2024, 5 have a Metascore rating above 70, while the remaining 5 have a Metascore rating below 70
 - This initial data suggests that there is no clear correlation between film ratings and box office success. 
