@@ -183,3 +183,5 @@ LIMIT 10;
 ```
 # Top 10 Grossing Films and Their Sequel Status
 <img src="Assets/Top 10 Grossing Films and Their Sequel Status.png">
+
+100% of the top 10 grossing films (2018-2024) are sequels, indicating a strong correlation between box office success and sequel movies.
