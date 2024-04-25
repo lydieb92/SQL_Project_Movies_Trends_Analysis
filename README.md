@@ -133,4 +133,5 @@ LIMIT 10;
 ## Top 10 Highly Rated Films
 <img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Top%2010%20Highly%20Rated%20Films.png">
 
-Only Black Panther has earned a worldwide gross of more than $1 billion. Despite their high ratings, the rest of the films do not achieve the same level of financial success as the top 10 grossing films. In fact, they fail to reach the $1 billion mark in comparison.
+- Only Black Panther has earned a worldwide gross of more than $1 billion. Despite their high ratings, the rest of the films do not achieve the same level of financial success as the top 10 grossing films. In fact, they fail to reach the $1 billion mark in comparison.
+- We can conclude that there is no correlation between a film's rating and its box office success, whether high or low.
