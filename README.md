@@ -138,3 +138,18 @@ LIMIT 10;
 
 # Film Runtime and Audience Engagement
 I examined the relationship between film runtime and audience engagement among the top ten grossing films from 2018 to 2024. This analysis involved performing an inner join on two tables to retrieve the film runtimes and worldwide gross earnings.
+``` SQL
+SELECT
+ top_50_2018_2024.id,
+ top_50_2018_2024.release_group,
+ top_50_2018_2024.year,
+ CONCAT('$', TRIM(TRAILING '.' FROM TO_CHAR(top_50_2018_2024.worldwide_inflation, 'FM999,999,999,999.99'))) AS worldwide,
+ top_50_genres.runtime
+FROM
+ top_50_2018_2024
+INNER JOIN
+ top_50_genres ON top_50_2018_2024.id = top_50_genres.id
+ORDER BY
+ top_50_2018_2024.worldwide_inflation DESC
+LIMIT 10;
+```
