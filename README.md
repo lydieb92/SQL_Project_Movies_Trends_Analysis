@@ -162,3 +162,5 @@ LIMIT 10;
 According to sources, the average running time of movies typically falls between 90 minutes and 120 minutes. Films exceeding 120 minutes are generally considered to be longer movies. 
 
 From this perspective, one might assume that longer films are less attractive options. However, when we examine the worldwide top-grossing movies from 2018 to 2024, it becomes evident that lengthy runtimes are not necessarily a deterrent for audiences.
+
+# Correlation between sequels and box office number
