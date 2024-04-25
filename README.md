@@ -207,3 +207,7 @@ ORDER BY
   top_50_2018_2024.worldwide_inflation DESC
 LIMIT 10;
 ```
+## Top 10 Grossing Films and Their Ratings
+
+* PG: Parental guidance suggested 
+* G: General audiences
