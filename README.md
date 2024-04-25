@@ -103,6 +103,6 @@ ORDER BY
   top_50_2018_2024.worldwide_inflation DESC
 LIMIT 10;
 ```
-## Top 10 grossing films ratings
+## Top 10 Grossing Films Ratings
 <img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Top%2010%20grossing%20film%20ratings%20-%20Table%201.png">
 
