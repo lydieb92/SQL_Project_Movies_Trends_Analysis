@@ -131,3 +131,4 @@ ORDER BY
 LIMIT 10;
 ```
 ## Top 10 Highly Rated Films
+<img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Top%2010%20Highly%20Rated%20Films.png">
