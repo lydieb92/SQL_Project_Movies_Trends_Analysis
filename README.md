@@ -24,4 +24,4 @@ b. PostgreSQL: The chosen database management system, ideal for handling the box
 c. Visual Studio Code: My go-to for database management and executing SQL queries.
 
 d. Git & GitHub: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
->>>>>>> 72d2873 (PUSH readme)
+
