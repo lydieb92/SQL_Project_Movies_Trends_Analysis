@@ -209,5 +209,5 @@ LIMIT 10;
 ```
 ## Top 10 Grossing Films and Their Ratings
 
-* PG: Parental guidance suggested 
+* PG: Parental guidance suggested
 * G: General audiences
