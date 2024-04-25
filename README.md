@@ -211,3 +211,4 @@ LIMIT 10;
 
 * PG: Parental guidance suggested
 * G: General audiences
+<img src="Assets/Top 10 Grossing Films and Their Ratings.png">
