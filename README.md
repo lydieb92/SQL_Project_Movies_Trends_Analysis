@@ -188,3 +188,6 @@ LIMIT 10;
 <img src="Assets/Top 10 Grossing Films and Their Sequel Status.png">
 
 100% of the top 10 grossing films (2018-2024) are sequels, indicating a strong correlation between box office success and sequel movies.
+
+# Correlation Between Movie Ratings and Box Office Success
+I conducted an analysis on the correlation between box office performance and movie ratings. This involved querying the movie ratings and top 10 grossing films using an inner join SQL operation. Subsequently, I examined the data to determine the relationship between movie ratings and box office success.
