@@ -22,3 +22,4 @@ a. SQL: The backbone of my analysis, allowing me to query the database and unear
 b. PostgreSQL: The chosen database management system, ideal for handling the box office data. 
 c. Visual Studio Code: My go-to for database management and executing SQL queries.
 d. Git & GitHub: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+
