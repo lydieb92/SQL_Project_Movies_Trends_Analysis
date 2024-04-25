@@ -79,3 +79,6 @@ GROUP BY genre
 ORDER BY genre_count DESC
 LIMIT 10;
 ```
+## Top 10 Film Genres(2018-2024)
+
+<img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Pie%20Chart%20Popular%20genres%20(2018-2024).png">
