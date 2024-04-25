@@ -13,3 +13,12 @@ The questions I wanted to answer through my SQL queries were:
 4. What is the correlation between runtime and audience engagement?
 5. What is the correlation between sequels and box office numbers?
 6. How did the pandemic affect the worldwide box office?
+
+Tools I Used
+
+For my deep dive into the movie data analysis market, I harnessed the power of several key tools:
+
+SQL: The backbone of my analysis, allowing me to query the database and unearth critical insights.
+PostgreSQL: The chosen database management system, ideal for handling the box office data. 
+Visual Studio Code: My go-to for database management and executing SQL queries.
+Git & GitHub: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
