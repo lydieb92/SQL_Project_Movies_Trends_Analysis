@@ -62,8 +62,7 @@ Here's the breakdown of the most successful movies at the box office from 2018 t
 
 
 ## Top Grossing Films(2018-2024)
-
-<img src="[https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/CSV%20files/CSV%20files/Highest%20worldwide%20earnings%20table%202.png](https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Pictures%20png/CSV%20files/Top%2050%202018-2024_genres.csv)">
+<img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Pictures%20png/CSV%20files/Top%2050%202018-2024_genres.csv">
 
 
 
