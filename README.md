@@ -66,6 +66,6 @@ Here's the breakdown of the most successful movies at the box office from 2018 t
 
 *Table visualizing the top 10  worldwide grossing films from 2018-2024; ChatGPT generated this table from my SQL query results.*
 
-## The Most Popular Film Genres(2018-2024)
+## The Top Popular Film Genres(2018-2024)
 
 
