@@ -28,3 +28,4 @@ ORDER BY
  top_50_genres.metascore DESC,
  top_50_2018_2024.worldwide_inflation DESC
 LIMIT 10;
+
