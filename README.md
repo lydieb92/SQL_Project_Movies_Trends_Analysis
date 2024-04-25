@@ -155,3 +155,6 @@ LIMIT 10;
 ```
 ## Top 10 Grossing Films and Their Runtimes
 <img src="Assets/Top 10 Grossing Films and Their Runtimes.png">
+
+- The average runtime of the top 10 grossing films is over 1 hour and 30 minutes.
+- The runtime for these movies ranges from 1 hour and 43 minutes to 2 hours and 12 minutes.
