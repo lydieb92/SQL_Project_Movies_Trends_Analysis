@@ -191,3 +191,19 @@ LIMIT 10;
 
 # Correlation Between Movie Ratings and Box Office Success
 I conducted an analysis on the correlation between box office performance and movie ratings. This involved querying the movie ratings and top 10 grossing films using an inner join SQL operation. Subsequently, I examined the data to determine the relationship between movie ratings and box office success.
+
+``` SQL
+SELECT
+ top_50_2018_2024.id,
+ top_50_2018_2024.release_group,
+ top_50_2018_2024.year,
+ CONCAT('$', TRIM(TRAILING '.' FROM TO_CHAR(top_50_2018_2024.worldwide_inflation, 'FM999,999,999,999.99'))) AS worldwide,
+ top_50_genres.rated
+FROM
+ top_50_2018_2024
+INNER JOIN
+ top_50_genres ON top_50_2018_2024.id = top_50_genres.id
+ORDER BY
+  top_50_2018_2024.worldwide_inflation DESC
+LIMIT 10;
+```
