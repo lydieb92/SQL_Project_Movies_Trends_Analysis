@@ -18,7 +18,7 @@ Tools I Used
 
 For my deep dive into the movie data analysis market, I harnessed the power of several key tools:
 
-SQL: The backbone of my analysis, allowing me to query the database and unearth critical insights.
-PostgreSQL: The chosen database management system, ideal for handling the box office data. 
-Visual Studio Code: My go-to for database management and executing SQL queries.
-Git & GitHub: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+a. SQL: The backbone of my analysis, allowing me to query the database and unearth critical insights.
+b. PostgreSQL: The chosen database management system, ideal for handling the box office data. 
+c. Visual Studio Code: My go-to for database management and executing SQL queries.
+d. Git & GitHub: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
