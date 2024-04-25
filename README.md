@@ -32,5 +32,27 @@ Each query for this project aimed at investigating specific aspects of the box o
  To identify the top movies with the highest worldwide earnings, I filtered the ID, release group (movie title), the year (the release year), and the worldwide earnings, and then ordered them in descending order.
 
 
-
+``` sql
+SELECT
+ id,
+ release_group,
+ year,
+ Worldwide
+FROM (
+   SELECT DISTINCT
+       id,
+       release_group,
+       CONCAT(
+           '$',
+           RTRIM(TO_CHAR(ROUND(worldwide_inflation, 2), 'FM999,999,999,999.99'), '.')
+       ) AS Worldwide,
+       worldwide_inflation,
+       year
+   FROM
+       box_office_2018_2024
+) AS subquery
+ORDER BY
+   worldwide_inflation DESC
+LIMIT 10;
+```
 
