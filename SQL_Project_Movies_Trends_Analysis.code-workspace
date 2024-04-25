@@ -2,9 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../../../../private/var/tmp/CSV files"
 		}
 	],
 	"settings": {
