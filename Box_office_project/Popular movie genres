@@ -4,8 +4,4 @@ FROM (
 ) AS all_genres
 GROUP BY genre
 ORDER BY genre_count DESC
-<<<<<<< HEAD
 LIMIT 10;
-=======
-LIMIT 10;
->>>>>>> bc1484696fb76fd504da80567c2e8b8bfdf1904c
