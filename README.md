@@ -154,3 +154,4 @@ ORDER BY
 LIMIT 10;
 ```
 ## Top 10 Grossing Films and Their Runtimes
+<img src="Assets/Top 10 Grossing Films and Their Runtimes.png">
