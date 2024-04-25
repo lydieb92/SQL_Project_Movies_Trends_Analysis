@@ -28,7 +28,7 @@ d. Git & GitHub: Essential for version control and sharing my SQL scripts and an
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the box office market.
 
-All worldwide earnings have been adjusted with the inflation rate for each year. 
+This project was created in April 2024, so the box office data for the year 2024 only includes films released up to April 2024. Additionally, the inflation rate has been applied to the years 2018, 2019, 2020, 2021, 2022, and 2023.
 
  ## 1. Top Grossing Films (2018-2024)
  To identify the top movies with the highest worldwide earnings, I filtered the ID, release group (movie title), the year (the release year), and the worldwide earnings, and then ordered them in descending order. "Worldwide inflation" refers to the worldwide earnings adjusted for inflation rates.
