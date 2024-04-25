@@ -60,6 +60,6 @@ Here's the breakdown of the most successful movies at the box office from 2018 t
 
 (Please note that as of April 2024, the year 2024 is not yet concluded so the numbers provided may vary by the end of 2024.)
 
-![Top Grossing Films (2018-2024)]()
+![Top Grossing Films(2018-2024)](./private/var/tmp/CSV files/Highest worldwide earnings table.png)
 
 
