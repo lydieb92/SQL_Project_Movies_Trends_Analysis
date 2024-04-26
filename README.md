@@ -7,7 +7,7 @@ As a movie-nerd and enthusiast, I aimed to delve into the movie market from the 
 
 The questions I wanted to answer through my SQL queries were:
 
-1. What are the movies with the highest worldwide box office from 2018 to now?
+1. What are the movies with the highest worldwide box office from 2018 to now (2024)?
 2. What are the most popular movie genres since 2018?
 3. What is the relationship between movie ratings and box office numbers?
 4. What is the correlation between runtime and audience engagement?
