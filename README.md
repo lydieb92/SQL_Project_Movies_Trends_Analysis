@@ -218,4 +218,4 @@ LIMIT 10;
 
 # Global Box Office: Pre, During & Post Pandemic (2018-2024)
 
-To understand the pandemic's impact on box office numbers, I analyzed global gross earnings from 2018 to 2024. This analysis involved filtering worldwide box office earnings by release year and performing a SUM aggregation.
+To comprehend the pandemic's influence on box office figures, I scrutinized the global gross earnings spanning from 2018 to 2024. This process entailed filtering worldwide box office revenues by release year and executing a SUM aggregation to ascertain the total worldwide earnings for each year within the specified timeframe.
