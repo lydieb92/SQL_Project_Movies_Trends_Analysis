@@ -262,3 +262,8 @@ ORDER BY
 
 (This chart/graph was created using ChatGPT 3.5).
 
+
+- The years 2019 and 2018 were the most profitable, while 2020 marked the least profitable period due to widespread closures of movie theaters worldwide. 
+- 2021 saw a significant resurgence as theaters began reopening across the globe.
+- Although the curve shows an upward trend from 2021 onwards, it never quite reached the levels of success seen in the previous years (2018-2019).
+
