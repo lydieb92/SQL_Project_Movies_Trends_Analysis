@@ -172,7 +172,7 @@ LIMIT 10;
 - The average runtime of the top 10 grossing films is over 1 hour and 30 minutes.
 - The runtime for these movies ranges from 1 hour and 43 minutes to 3 hours and 12 minutes.
 
-According to sources, the average running time of movies typically falls between 90 minutes and 120 minutes. Films exceeding 120 minutes are generally considered to be longer movies. 
+According to [sources](https://gitnux.org/average-movie-length/#:~:text=average%20movie%20lengths.-,The%20Latest%20Average%20Movie%20Length%20Statistics%20Explained,derived%20from%20a%20reliable%20source), the average running time of movies typically falls between 90 minutes and 120 minutes. Films exceeding 120 minutes are generally considered to be longer movies. 
 
 From this perspective, one might assume that longer films are less attractive options. However, when we examine the worldwide top-grossing movies from 2018 to 2024, it becomes evident that lengthy runtimes are not necessarily a deterrent for audiences.
 
