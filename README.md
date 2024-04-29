@@ -214,4 +214,7 @@ LIMIT 10;
 <img src="Assets/Top 10 Grossing Films and Their Ratings.png">
 
 - All top 10 grossing films are suitable for general audiences. Parental guidance indicates that a movie may contain some scenes unsuitable for young children, but these movies are generally considered family-friendly.
-- From this dataset, we can conclude that there is a strong correlation between movie ratings and box office success. By delving deeper into the analysis, we can extract insights into what this correlation reveals about consumer preferences. I will further discuss this aspect in the analysis section
+- From this dataset, we can conclude that there is a strong correlation between movie ratings and box office success. By delving deeper into the analysis, we can extract insights into what this correlation reveals about consumer preferences. I will further discuss this aspect in the conclusions. 
+
+# Global Box Office: Pre, During & Post Pandemic (2018-2024)
+
