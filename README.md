@@ -266,6 +266,7 @@ ORDER BY
 - The years 2019 and 2018 were the most profitable, while 2020 marked the least profitable period due to widespread closures of movie theaters worldwide, stemming from the pandemic.
 - 2021 saw a significant resurgence as theaters began reopening across the globe.
 - Although the curve shows an upward trend from 2021 onwards, it never quite reached the levels of success seen in the previous years (2018-2019).
+- The year 2024 is incomplete as this project was created in April 2024. However, based on data from previous years (2022-2023), we can observe that the box office performance remains significantly lower compared to the most successful years (2018-2019). Nevertheless, it would be intriguing to conduct a similar analysis for the year 2024 once complete data becomes available.
 
 # What I Learned
 
