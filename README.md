@@ -242,3 +242,4 @@ ORDER BY
   SUM(worldwide_inflation) DESC;
 ```
 ## Worldwide Box Office Earnings (2018-2024)
+<img src="Assets/Worldwide box_office_earnings(2018-2024).png">
