@@ -1,0 +1,351 @@
+﻿ID,Release Group,Runtime ,Metascore,Rated,Year,Genre 1,Genre 2,Genre 3,Sequel
+1202,Dune: Part Two,2h 46m,79,PG,2024,Science Fiction, Adventure,,TRUE
+1203,Godzilla x Kong: The New Empire,1h 55m,47,PG,2024, Action, Adventure,,TRUE
+1204,Kung Fu Panda 4,1h 34m,54,PG,2024,Animation, Action, Adventure,TRUE
+1205,Bob Marley: One Love,1h 47m,43,PG,2024,Documentary, Music,,FALSE
+1206,Ghostbusters: Frozen Empire,1h 55m,46,PG,2024,Comedy, Fantasy,,TRUE
+1207,The Beekeeper,1h 45m,54,14A,2024,Drama,,,TRUE
+1208,Mean Girls ,1h 52m,58,PG,2024,Comedy,Musical,,TRUE
+1209,Madame Web,1h 56m,26,PG,2024,Action, Adventure, Fantasy,FALSE
+1210,Argylle,2h 19m,35,PG,2024,Action, Thriller,,FALSE
+1211,Exhuma,2h 14m,,14A,2024,Horror,,,FALSE
+1212,Haikyuu!! The Dumpster Battle,1h 25m,,,2024,Anime, Sports,,FALSE
+1213,Night Swim,1h 38m,43,14A,2024,Thriller, Horror,,FALSE
+1214,Civil War,1h 49m,75,14A,2024,Drama, Action,,FALSE
+1215,The First Omen,1h 59m,65,18A,2024,Horror,,,FALSE
+1216,Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,1h 44m,61,14A,2024,Anime, Action, Fantasy,FALSE
+1217,Imaginary,1h 44m,34,14A,2024,Drama, Fantasy,,FALSE
+1218,Arthur the King,1h 47m,54,PG-13,2024,Adventure, Drama,,FALSE
+1219,Mobile Suit Gundam Seed Freedom,2h 4m,,,2024,Anime, Action, Science-Fiction,FALSE
+1220,Monkey Man,2h 1m,70,14A,2024,Crime, Drama,,FALSE
+1221,The Master and Margarita,,,,2024,Drama, Fantasy,,FALSE
+1222,A Strange House,,,,2024,Horror, Mystery,,FALSE
+1223,Doraemon the Movie: Nobita's Earth Symphony,1h 55m,,,2024,Animation, Adventure, Comedy,FALSE
+1224,Mai,2h 11m,,PG,2024,Drama,,,FALSE
+1225,Detective Conan: The Million-Dollar Pentagram,1h 30m,,,2024,Anime, Mystery,,FALSE
+1226,Immaculate,1h 29m,57,14A,2024,Drama, Mystery,,FALSE
+1227,Autumn and the Black Jaguar,1h 40m,,PG,2024,Drama, Romance,,FALSE
+1228,Wicked Little Letters,1h 40m,58,,2024,Drama, Mystery,,FALSE
+1229,Lyod 3,2h 14m,51,PG,2024,Action, Adventure, Fantasy,FALSE
+1230,Cabrini,2h 22m,,,2024,Horror,,,FALSE
+1231,Ordinary Angels,1h 58m,57,PG,2024,Drama, Romance,,FALSE
+1232,Golden Kamuy,2h 7m,,,2024,Action, Adventure, Historical,FALSE
+1233,Chantal in Fairyland,1h 58m,,,2024,Fantasy, Adventure,,FALSE
+1234,Cocorico,1h 32m,,,2024,Comedy,,,FALSE
+1235,Kleks Academy,2h 5m,,,2024,Fantasy, Adventure,,FALSE
+1236,Abigail,1h 49m,63,18A,2024,Fantasy, Adventure,,TRUE
+1237,The Chosen: S4 Episodes 1-3,,,,2024,Drama, Fantasy,,TRUE
+1238,Citizen of a Kind,1h 54m,,,2024,Action,Crime,,FALSE
+1239,Maison de retraite 2,1h 42m,,,2024,Comedy,,,TRUE
+1240,Eine Million Minuten,2h 3m,,,2024,Drama,Comedy,,FALSE
+1241,Article 370,2h 38m,,PG,2024,Action, Thriller,,FALSE
+1242,Alienoid: The Return to the Future,2h 2m,,PG,2024,Science-Fiction, Action,,FALSE
+1243,Cat and Dog,1h 26m,,,2024,Comedy, Drama,,FALSE
+1244,Late Night with the Devil,1h 33m,72,14A,2024,Horror, Thriller,,FALSE
+1245,Letuchiy korabl,1h 40m,,,2024,Animation, Adventure,,FALSE
+1246,Lisa Frankenstein,1h 41m,47,PG,2024,Horror, Comedy,,FALSE
+1247,The Chosen: S4 Episodes 4-6,,,,2024,Drama, Fantasy,,TRUE
+1248,The Ministry of Ungentlemanly Warfare,2h,57,R,2024,War, Drama,,FALSE
+1249,Lohusa,1h 58m,,,2024,Romance,Comedy,,FALSE
+1250,Love Lies Bleeding,1h 44m,76,18A,2024,Thriller,Crime,,FALSE
+1251,Onegin,2h 26m,,,2024,Drama, Romance,,FALSE
+1002,Barbie,1h 54m,80,PG,2023,Comedy,Fantasy,,FALSE
+1003,The Super Mario Bros. Movie,1h 32m,46,PG,2023,Animation,Adventure,Comedy,FALSE
+1004,Oppenheimer,3h,90,G,2023,Biography,Drama,History,FALSE
+1005,Guardians of the Galaxy Vol. 3,2h 30m,64,PG,2023,Action,Adventure,Comedy,TRUE
+1006,Fast X,2h 21m,56,PG,2023,Action,Adventure,Crime,TRUE
+1007,Spider-Man: Across the Spider-Verse,2h 20m,86,PG,2023,Animation,Action,Adventure,TRUE
+1008,Wonka,1h 56m,66,PG,2023,Adventure,Comedy,Family,TRUE
+1009,The Little Mermaid,2h 15m,59,PG,2023,Adventure,Drama,Family,TRUE
+1010,Mission: Impossible - Dead Reckoning Part One,2h 43m,81,PG,2023,Action,Adventure,Thriller,TRUE
+1011,Elemental,1h 41m,58,G,2023,Sci-Fi,Thriller,,FALSE
+1012,Ant-Man and the Wasp: Quantumania,2h 4m,48,PG,2023,Action,Adventure,Comedy,TRUE
+1013,John Wick: Chapter 4,2h 49m,78,14A,2023,Action,Crime,Thriller,TRUE
+1014,Transformers: Rise of the Beasts,2h 7m,42,PG,2023,Action,Adventure,Science-Fiction,TRUE
+1015,Aquaman and the Lost Kingdom,2h 4m,42,PG,2023,Action,Adventure,Fantasy,TRUE
+1016,Meg 2: The Trench,1h 56m,40,PG,2023,Action,Horror,Science-Fiction,TRUE
+1017,Indiana Jones and the Dial of Destiny,2h 34m,58,PG,2023,Action,Adventure,Fantasy,TRUE
+1018,The Hunger Games: The Ballad of Songbirds & Snakes,2h 37m,54,PG,2023,Adventure,Science-Fiction,Thriller,TRUE
+1019,Migration,1h 23m,56,PG,2023,Drama,,,FALSE
+1020,Five Nights at Freddy's,1h 49m,33,14A,2023,Horror,Mystery,Thriller,TRUE
+1021,Creed III,1h 56m,73,PG,2023,Drama,Sport,,TRUE
+1022,The Flash,2h 24m,55,PG,2023,Action,Adventure,Fantasy,TRUE
+1023,The Nun II,1h 50m,47,14A,2023,Horror,Mystery,Thriller,TRUE
+1024,Taylor Swift: The Eras Tour,2h 49m,82,PG,2023,Music,Documentary,,TRUE
+1025,Wish,1h 35m,47,G,2023,Drama,Fantasy,,FALSE
+1026,Sound of Freedom,2h 11m,36,PG,2023,Crime,Thriller,,FALSE
+1027,Napoleon,2h 38m,64,14A,2023,War,Action,History,FALSE
+1028,Anyone But You,1h 43m,52,14A,2023,Romance,Comedy,,FALSE
+1029,Dungeons & Dragons: Honor Among Thieves,2h 14m,72,PG,2023,Adventure,Fantasy,,TRUE
+1030,Trolls Band Together,1h 31m,53,G,2023,Animation,Adventure,Comedy,TRUE
+1031,The Marvels,1h 45m,50,PG,2023,Action,Adventure,Fantasy,TRUE
+1032,PAW Patrol: The Mighty Movie,1h 28m,49,PG,2023,Animation,Adventure,Family,TRUE
+1033,The Equalizer 3,1h 49m,58,14A,2023,Action,Crime,Thriller,TRUE
+1034,Insidious: The Red Door,1h 47m,45,14A,2023,Horror,Mystery,Thriller,TRUE
+1035,Teenage Mutant Ninja Turtles: Mutant Mayhem,1h 39m,74,PG,2023,Action,Adventure,Comedy,TRUE
+1036,The Boy and the Heron,2h 4m,91,PG,2023,Drama,,,FALSE
+1037,Scream VI,2h 2m,61,14A,2023,Horror,Mystery,Thriller,TRUE
+1038,Killers of the Flower Moon,3h 26m,89,14A,2023,Crime,Drama,History,FALSE
+1039,Evil Dead Rise,1h 36m,69,18A,2023,Horror,,,FALSE
+1040,The Exorcist: Believer,1h 51m,39,14A,2023,Horror,,,TRUE
+1041,Shazam! Fury of the Gods,2h 10m,47,PG,2023,Action,Adventure,Fantasy,TRUE
+1042,Blue Beetle,2h 7m,61,PG,2023,Action,Adventure,Fantasy,FALSE
+1043,A Haunting in Venice,1h 43m,63,PG,2023,Horror,Mystery,Thriller,FALSE
+1044,Gran Turismo,2h 14m,48,PG,2023,Action,Drama,Sport,FALSE
+1045,Haunted Mansion,2h 3m,47,PG,2023,Comedy,Family,Fantasy,FALSE
+1046,Poor Things,2h 21m,88,18A,2023,Comedy,Drama,Fantasy,FALSE
+1047,Godzilla Minus One,2h 4m,81,PG,2023,Action,Adventure,Science-Fiction,TRUE
+1048,Pathaan,2h 26m,47,14A,2023,Action,Thriller,,FALSE
+1049,Saw X,1h 58m,60,18A,2023,Horror,Mystery,Thriller,FALSE
+1050,Detective Conan: Black Iron Submarine,1h 49m,,,2023,Animation,Mystery,,FALSE
+1051,The Creator,2h 13m,63,PG,2023,Drama,Mystery,,FALSE
+802,Avatar: The Way of Water,3h 12m,67,PG,2022,Action,Adventure,Fantasy,TRUE
+803,Top Gun: Maverick,2h 10m,78,PG,2022,Action,Drama,,TRUE
+804,Jurassic World Dominion,2h 27m,38,PG,2022,Action,Adventure,Science-Fiction,TRUE
+805,Doctor Strange in the Multiverse of Madness,2h 6m,60,PG,2022,Action,Adventure,Fantasy,TRUE
+806,Minions: The Rise of Gru,1h 27m,56,PG,2022,Animation,Adventure,Comedy,TRUE
+807,Black Panther: Wakanda Forever,2h 41m,67,PG,2022,Action,Adventure,Thriller,TRUE
+808,The Batman,2h 56m,72,PG,2022,Action,Crime,Drama,TRUE
+809,Thor: Love and Thunder,1h 58m,57,PG,2022,Action,Adventure,Fantasy,FALSE
+810,Water Gate Bridge,2h 33m,,13+,2022,Drama,Mystery,,FALSE
+811,Puss in Boots: The Last Wish,1h 42m,73,PG,2022,Animation,Adventure,Comedy,TRUE
+812,Moon Man,2h 2m,,,2022,Science-Fiction,,,FALSE
+813,Fantastic Beasts: The Secrets of Dumbledore,2h 22m,47,PG,2022,Adventure,Family,Fantasy,TRUE
+814,Uncharted,1h 56m,45,PG,2022,Action,Adventure,,TRUE
+815,Sonic the Hedgehog 2,2h 2m,47,PG,2022,Action,Adventure,Comedy,TRUE
+816,Black Adam,2h 5m,41,PG,2022,Action,Adventure,Fantasy,TRUE
+817,Elvis,2h 39m,64,PG,2022,Biography,Drama,Music,TRUE
+818,The Bad Guys,1h 40m,64,PG,2022,Animation,Action,Comedy,FALSE
+819,Bullet Train,2h 7m,49,14A,2022,Action,Thriller,,FALSE
+820,Lightyear,1h 45m,60,PG,2022,Animation,Adventure,Comedy,TRUE
+821,Smile,1h 55m,68,14A,2022,Drama,Romance,,FALSE
+822,Too Cool to Kill,1h 49m,,,2022,Comedy,Crime,,FALSE
+823,Nice View,1h 46m,,,2022,Drama,Mystery,,FALSE
+824,DC League of Super-Pets,1h 45m,56,PG,2022,Animation,Action,Adventure,TRUE
+825,The Lost City,1h 52m,60,PG,2022,Comedy,Action,,FALSE
+826,M3GAN,1h 42m,72,14A,2022,Horror,Science-Fiction,,FALSE
+827,One Piece Film: Red,1h 55m,69,PG,2022,Animation,Action,Adventure,TRUE
+828,Nope,2h 10m,77,14A,2022,Horror,Mystery,Thriller,FALSE
+829,Ticket to Paradise,1h 44m,50,PG,2022,Comedy,Romance,,FALSE
+830,Morbius,1h 44m,35,PG,2022,Action,Adventure,Fantasy,FALSE
+831,RRR,3h 7m,83,14A,2022,Action,Drama,,FALSE
+832,The Black Phone,1h 43m,65,14A,2022,Horror,Mystery,Thriller,FALSE
+833,The First Slam Dunk,2h 4m,79,PG,2022,Drama,Sport,,FALSE
+834,Where the Crawdads Sing,2h 5m,43,PG,2022,Crime,Drama,Mystery,FALSE
+835,Everything Everywhere All at Once,2h 19m,81,PG,2022,Action,Comedy,Science-Fiction,FALSE
+836,Scream,1h 54m,60,14A,2022,Horror,Mystery,,TRUE
+837,Death on the Nile,2h 7m,52,PG,2022,Crime,Drama,Mystery,FALSE
+838,Suzume,2h 2m,77,PG,2022,Drama,,,FALSE
+839,A Man Called Otto,2h 6m,51,PG,2022,Comedy,Drama,,FALSE
+840,"Lyle, Lyle, Crocodile",1h 46m,51,G,2022,Animation,Adventure,Family,FALSE
+841,Halloween Ends,1h 51m,47,18A,2022,Horror,Thriller,,FALSE
+842,The Roundup,1h 46m,,14A,2022,Drama,Western,,TRUE
+843,The Woman King,2h 15m,76,PG,2022,Drama,History,,FALSE
+844,Downton Abbey: A New Era,2h 4m,63,G,2022,Drama,Romance,,TRUE
+845,K.G.F: Chapter 2,2h 46m,,14A,2022,Action,Drama,,TRUE
+846,Don't Worry Darling,2h 3m,48,14A,2022,Drama,Mystery,Thriller,FALSE
+847,Dragon Ball Super: Super Hero,1h 40m,65,PG,2022,Animation,Action,Thriller,TRUE
+848,Dog,1h 41m,61,PG,2022,Comedy,Drama,,FALSE
+849,Jackass Forever,1h 36m,74,18A,2022,Documentary,Action,Comedy,TRUE
+850,The Menu,1h 47m,71,14A,2022,Thriller,,,FALSE
+851,Chebi: My Fluffy Friend,1h 53m,,,2022,Animation,Family,,FALSE
+602,Spider-Man: No Way Home,2h 28m,71,PG,2021,Action,Adventure,Fantasy,TRUE
+603,The Battle at Lake Changjin,2h 56m,,14A,2021,War,Drama,,FALSE
+604,"Hi, Mom",2h 8m,,,2021,Comedy,Drama,Fantasy,FALSE
+605,No Time to Die,2h 43m,68,PG,2021,Action,Adventure,Thriller,TRUE
+606,F9: The Fast Saga,2h 23m,58,PG,2021,Action,Adventure,Crime,TRUE
+607,Detective Chinatown 3,2h 16m,,PG,2021,Comedy,Mystery,,TRUE
+608,Venom: Let There Be Carnage,1h 37m,49,PG,2021,Action,Adventure,Science-Fiction,TRUE
+609,Godzilla vs. Kong,1h 53m,59,PG,2021,Action,Science-Fiction,Thriller,TRUE
+610,Shang-Chi and the Legend of the Ten Rings,2h 12m,71,PG,2021,Action,Adventure,Fantasy,TRUE
+611,Sing 2,1h 50m,49,G,2021,Animation,Comedy,Family,TRUE
+612,Eternals,2h 36m,52,PG,2021,Action,Adventure,Drama,FALSE
+613,Dune,2h 35m,74,PG,2021,Adventure,Drama,Science-Fiction,FALSE
+614,Black Widow,2h 14m,68,PG,2021,Action,Adventure,Science-Fiction,TRUE
+615,Free Guy,1h 55m,62,PG,2021,Action,Adventure,Comedy,FALSE
+616,A Quiet Place Part II,1h 37m,71,14A,2021,Drama,Horror,Science-Fiction,TRUE
+617,Encanto,1h 42m,75,G,2021,Animation,Adventure,Comedy,FALSE
+618,Cruella,2h 14m,59,PG,2021,Crime,Comedy,Drama,TRUE
+619,"My Country, My Parents",2h 37m,,14A,2021,Drama,,,FALSE
+620,Jungle Cruise,2h7m,,PG,2021,Action,Adventure,Comedy,FALSE
+621,The Conjuring: The Devil Made Me Do It,1h52m,53,14A,2021,Horror,Mystery,Thriller,TRUE
+622,Raging Fire,2h 6m,72,14A,2021,Action,Crime,Thriller,TRUE
+623,Ghostbusters: Afterlife,2h 4m,45,PG,2021,Action,Comedy,Fantasy,TRUE
+624,Chinese Doctors,2h 9m,,PG,2021,Drama,,,FALSE
+625,Cliff Walkers,2h,,14A,2021,Drama,Romance,,FALSE
+626,The Suicide Squad,2h 12m,72,14A,2021,Action,Adventure,Comedy,TRUE
+627,Jujutsu Kaisen 0,1h 45m,71,PG,2021,Animation,Action,Fantasy,FALSE
+628,Space Jam: A New Legacy,1h 55m,36,PG,2021,Animation,Adventure,Comedy,TRUE
+629,The Matrix Resurrections,2h 28m,63,PG,2021,Action,Science-Fiction,,TRUE
+630,Peter Rabbit 2: The Runaway,1h 33m,43,G,2021,Animation,Adventure,Comedy,TRUE
+631,House of Gucci,2h 38m,59,G,2021,Crime,Drama,Thriller,FALSE
+632,A Writer's Odyssey,2h 10m,,14A,2021,Action,Adventure,Fantasy,FALSE
+633,The Boss Baby 2: Family Business,1h 47m,39,G,2021,Animation,Adventure,Comedy,TRUE
+634,PAW Patrol: The Movie,1h 26m,50,G,2021,Animation,Action,Thriller,TRUE
+635,Tom & Jerry,1h 41m,32,PG,2021,Animation,Adventure,Comedy,TRUE
+636,Be Somebody,2h 3m,,,2021,Drama,Music,,FALSE
+637,Halloween Kills,1h 45m,42,18A,2021,Horror,Thriller,,FALSE
+638,Raya and the Last Dragon,1h 47m,74,PG,2021,Animation,Action,Adventure,FALSE
+639,Sister,,,,2021,Drama,,,FALSE
+640,The King's Man,2h 11m,44,14A,2021,Action,Adventure,Comedy,FALSE
+641,The Addams Family 2,1h 33m,37,PG,2021,Animation,Adventure,Comedy,TRUE
+642,My Love,1h 55m,,PG,2021,Drama,Romance,,FALSE
+643,Clifford the Big Red Dog,1h 36m,55,G,2021,Adventure,Comedy,Family,TRUE
+644,Wrath of Man,1h 59m,57,14A,2021,Action,Crime,Thriller,FALSE
+645,Detective Conan: The Scarlet Bullet,1h 50m,,,2021,Animation,Action,Mystery,TRUE
+646,Evangelion: 3.0+1.01 Thrice Upon a Time,2h 34m,85,PG,2021,Animation,Action,Drama,FALSE
+647,End Game,1h 59m,,14A,2021,Action,Science-Fiction,Thriller,TRUE
+648,Old,1h 48m,55,14A,2021,Mystery,Thriller,,FALSE
+649,Mortal Kombat,1h 50m,44,14A,2021,Action,Adventure,Fantasy,TRUE
+650,Boonie Bears: The Wild Life,1h 39m,,,2021,Animation,Adventure,Comedy,FALSE
+651,Candyman,1h 31m,72,14A,2021,Horror,Mystery,Thriller,FALSE
+402,The Eight Hundred,2h 29m,64,14A,2020,War,Drama,,FALSE
+403,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,1h 57m,72,14A,2020,Animation,Action,Fantasy,FALSE
+404,Bad Boys for Life,2h 4m,59,14A,2020,Action,Comedy,Crime,TRUE
+405,"My People, My Homeland",2h 33m,,PG,2020,Comedy,Drama,,FALSE
+406,Tenet,2h 30m,69,PG,2020,Action,Science-Fiction,Thriller,FALSE
+407,Sonic the Hedgehog,1h 39m,47,PG,2020,Action,Adventure,Comedy,TRUE
+408,Dolittle,1h 41m,26,PG,2020,Adventure,Comedy,Family,TRUE
+409,Jiang Ziya,1h 50m,,PG,2020,Animation,Adventure,Fantasy,FALSE
+410,A Little Red Flower,2h 2m,,,2020,Drama,,,FALSE
+411,The Croods: A New Age,1h 35m,56,G,2020,Animation,Adventure,Comedy,TRUE
+412,Birds of Prey,1h 49m,60,14A,2020,Action,Adventure,Crime,FALSE
+413,Shock Wave 2,2h,,14A,2020,Action,Crime,Thriller,TRUE
+414,Wonder Woman 1984,2h 31m,60,PG,2020,Action,Adventure,Fantasy,TRUE
+415,The Sacrifice,,,,2020,Drama,War,,FALSE
+416,The Invisible Man,2h 4m,72,14A,2020,Horror,Mystery,Science-Fiction,FALSE
+417,Onward,1h 42m,61,G,2020,Animation,Adventure,Comedy,FALSE
+418,Warm Hug,1h 52m,,,2020,Romance,Drama,,FALSE
+419,Soul,1h 40m,83,G,2020,Animation,Adventure,Comedy,FALSE
+420,The Call of the Wild,1h 40m,48,PG,2020,Adventure,Drama,Family,FALSE
+421,Mamma Mia! 2020 Re-release,,,,2020,Comedy,Musical,Romance,TRUE
+422,Caught in Time,1h 35m,,,2020,Action,Crime,Drama,FALSE
+423,Mulan,1h 55m,66,PG,2020,Action,Adventure,Drama,TRUE
+424,The Yin-Yang Master: Dream of Eternity,2h 12m,,PG-13,2020,Action,Drama,Fantasy,FALSE
+425,Stand by Me Doraemon 2,1h 36m,,,2020,Animation,Adventure,Comedy,TRUE
+426,The Rescue,2h 19m,,PG,2020,Action,Drama,Thriller,FALSE
+427,Love You Forever,1h 55m,,,2020,Drama,Romance,,FALSE
+428,Greenland,1h 59m,64,13+,2020,Action,Drama,Thriller,FALSE
+429,Tolo Tolo,1h 30m,,,2020,Comedy,,,FALSE
+430,Vanguard,1h 47m,34,14A,2020,Action,Adventure,Comedy,FALSE
+431,Fantasy Island,1h 49m,22,14A,2020,Adventure,Fantasy,Horror,FALSE
+432,Trolls World Tour,1h 31m,51,G,2020,Animation,Adventure,Comedy,TRUE
+433,The New Mutants,1h 34m,43,14A,2020,Action,Horror,Science-Fiction,FALSE
+434,After We Collided,1h45m,14,14A,2020,Drama,Romance,,FALSE
+435,"From Today, It's My Turn: The Movie",1h 54m,,,2020,Comedy,Drama,,FALSE
+436,Tanhaji: The Unsung Warrior,2h 15m,,14A,2020,Action,Biography,Drama,FALSE
+437,Unhinged,1h 30m,40,14A,2020,Action,Thriller,,FALSE
+438,The End of Endless Love,1h 42m,,,2020,Drama,Romance,,FALSE
+439,The War with Grandpa,1h 34m,34,G,2020,Comedy,Drama,Family,FALSE
+440,Peninsula,1h 56m,51,14A,2020,Action,Horror,Thriller,FALSE
+441,Monster Hunter,1h 43m,47,14A,2020,Action,Adventure,Fantasy,FALSE
+442,Underwater,1h 35m,48,14A,2020,Action,Horror,Science-Fiction,FALSE
+443,Bloodshot,1h 49m,44,14A,2020,Action,Drama,Science-Fiction,FALSE
+444,Sarileru Neekevvaru,2h49,,PG,2020,Action,Comedy,,FALSE
+445,The Untold Tale of the Three Kingdoms,1h 53m,,,2020,Action,Drama,History,FALSE
+446,The Confidence Man JP: Princess,2h 4m,,,2020,Comedy,Crime,Drama,FALSE
+447,The Man Standing Next,1h 54m,,14A,2020,Drama,Thriller,,FALSE
+448,My Mom is a Character 3,1h 51m,,,2020,Comedy,,,TRUE
+449,Doraemon the Movie: Nobita's New Dinosaur,1h 50m,,,2020,Animation,Adventure,Comedy,FALSE
+450,Deliver Us from Evil,1h 48m,,,2020,Action,Crime,Thriller,TRUE
+451,Harry Potter and the Sorcerer's Stone 2020 Re-release,,,,2020,Fantasy,Adventure,Family,TRUE
+202,Avengers: Endgame,3h 1m,78,PG,2019,Action,Adventure,Drama,TRUE
+203,The Lion King,1h 58m,55,PG,2019,Animation,Adventure,Drama,TRUE
+204,Frozen II,1h 43m,64,G,2019,Animation,Adventure,Comedy,TRUE
+205,Spider-Man: Far from Home,2h 9m,69,PG,2019,Action,Adventure,Science-Fiction,TRUE
+206,Captain Marvel,2h 3m,64,PG,2019,Action,Adventure,Science-Fiction,TRUE
+207,Joker,2h 2m,59,14A,2019,Crime,Drama,Thriller,TRUE
+208,Star Wars: Episode IX - The Rise of Skywalker,2h 21m,53,PG,2019,Action,Adventure,Fantasy,TRUE
+209,Toy Story 4,1h 40m,84,G,2019,Animation,Adventure,Comedy,TRUE
+210,Aladdin,2h 8m,,PG,2019,Adventure,Family,Fantasy,TRUE
+211,Jumanji: The Next Level,2h3m,58,PG,2019,Action,Adventure,Comedy,TRUE
+212,Fast & Furious Presents: Hobbs & Shaw,2h 17m,60,PG,2019,Action,Adventure,Thriller,TRUE
+213,Ne Zha,1h 50m,54,PG,2019,Animation,Action,Adventure,FALSE
+214,The Wandering Earth,2h 5m,,PG,2019,Action,Drama,Science-Fiction,FALSE
+215,How to Train Your Dragon: The Hidden World,1h 44m,71,PG,2019,Animation,Action,Adventure,TRUE
+216,Maleficent: Mistress of Evil,1h 59m,43,PG,2019,Adventure,Family,Fantasy,TRUE
+217,It Chapter Two,2h 49m,58,14A,2019,Horror,,,TRUE
+218,"My People, My Country",2h 34m,,PG,2019,Comedy,Drama,,FALSE
+219,Pokémon: Detective Pikachu,1h 44m,53,PG,2019,Action,Adventure,Comedy,TRUE
+220,The Secret Life of Pets 2,1h 26m,55,G,2019,Animation,Adventure,Comedy,TRUE
+221,The Captain,1h 51m,,PG,2019,Drama,History,Thriller,FALSE
+222,Alita: Battle Angel,2h 2m,53,PG,2019,Action,Adventure,Science-Fiction,FALSE
+223,Godzilla: King of the Monsters,2h 12m,48,PG,2019,Action,Adventure,Fantasy,TRUE
+224,1917,1h 59m,78,14A,2019,Drama,War,,FALSE
+225,Once Upon a Time... in Hollywood,2h 41m,84,14A,2019,Comedy,Drama,,FALSE
+226,Shazam!,2h 12m,71,PG,2019,Action,Adventure,Comedy,FALSE
+227,Dumbo,1h 52m,51,PG,2019,Adventure,Family,Fantasy,TRUE
+228,John Wick: Chapter 3 - Parabellum,2h 10m,73,14A,2019,Action,Crime,Thriller,TRUE
+229,Crazy Alien,1h 56m,,,2019,Comedy,Science-Fiction,,FALSE
+230,Knives Out,2h 10m,82,PG,2019,Comedy,Crime,Drama,FALSE
+231,Terminator: Dark Fate,2h 8m,54,14A,2019,Action,Adventure,Science-Fiction,TRUE
+232,Parasite,2h 12m,97,14A,2019,Comedy,Drama,Thriller,FALSE
+233,Us,1h 56m,81,14A,2019,Horror,Mystery,Thriller,FALSE
+234,Pegasus,1h 38m,,PG,2019,Comedy,Drama,,FALSE
+235,Men in Black: International,1h 54m,38,PG,2019,Action,Adventure,Comedy,TRUE
+236,Dark Phoenix,1h 53m,43,PG,2019,Action,Adventure,Science-Fiction,TRUE
+237,Glass,2h 9m,43,PG,2019,Drama,Science-Fiction,Thriller,TRUE
+238,The Bravest,1h 58m,,PG,2019,Action,Drama,,FALSE
+239,Annabelle Comes Home,1h 46m,,14A,2019,Horror,Mystery,Thriller,TRUE
+240,Better Days,2h 15m,83,PG,2019,Crime,Drama,Romance,FALSE
+241,Ford v Ferrari,2h 32m,81,PG,2019,Action,Biography,Drama,FALSE
+242,Little Women,2h 15m,91,PG,2019,Drama,Romance,,TRUE
+243,The Addams Family,1h 26m,46,PG,2019,Animation,Comedy,Family,TRUE
+244,Rocketman,2h 1m,69,PG,2019,Biography,Drama,Music,FALSE
+245,Downton Abbey,2h 2m,64,PG,2019,Drama,Romance,,TRUE
+246,Weathering with You,1h 52m,72,PG,2019,Animation,Drama,Fantasy,FALSE
+247,The Lego Movie 2: The Second Part,1h 47m,65,G,2019,Animation,Action,Adventure,TRUE
+248,Sheep Without a Shepherd,1h 52m,73,PG,2019,Crime,Drama,Thriller,FALSE
+249,The White Storm 2: Drug Lords,1h 39m,,14A,2019,Action,Crime,Drama,TRUE
+250,Abominable,1h37m,61,PG,2019,Animation,Adventure,Comedy,FALSE
+301,Ip Man 4: The Finale,1h 47m,62,PG,2019,Action,Biography,Drama,TRUE
+2,Avengers: Infinity War,2h 29m,68,PG,2018,Action,Adventure,Science-Fiction,TRUE
+3,Black Panther,2h 14m,88,PG,2018,Action,Adventure,Science-Fiction,TRUE
+4,Jurassic World: Fallen Kingdom,2h 8m,51,PG,2018,Action,Adventure,Science-Fiction,TRUE
+5,Incredibles 2,1h 58m,80,PG,2018,Animation,Action,Adventure,TRUE
+6,Aquaman,2h 23m,55,PG,2018,Action,Adventure,Fantasy,FALSE
+7,Bohemian Rhapsody,2h 14m,49,PG,2018,Biography,Drama,Music,FALSE
+8,Venom,1h 52m,35,PG,2018,Action,Adventure,Science-Fiction,TRUE
+9,Mission: Impossible - Fallout,2h 27m,87,PG,2018,Action,Adventure,Thriller,TRUE
+10,Deadpool 2,1h 59m,66,14A,2018,Action,Adventure,Comedy,TRUE
+11,Fantastic Beasts: The Crimes of Grindelwald,2h 14m,52,PG,2018,Adventure,Family,Fantasy,TRUE
+12,Ant-Man and the Wasp,1h 58m,70,PG,2018,Action,Adventure,Comedy,FALSE
+13,Ready Player One,2h 20m,64,PG,2018,Action,Adventure,Science-Fiction,FALSE
+14,Operation Red Sea,2h 22m,,18A,2018,Action,Drama,Thriller,FALSE
+15,Detective Chinatown 2,2h 1m,48,PG,2018,Action,Comedy,Mystery,TRUE
+16,Ralph Breaks the Internet,1h 52m,71,G,2018,Animation,Adventure,Comedy,TRUE
+17,The Meg,1h 53m,46,PG,2018,Action,Horror,Thriller,FALSE
+18,Hotel Transylvania 3: Summer Vacation,1h 37m,54,G,2018,Animation,Adventure,Comedy,TRUE
+19,The Grinch,1h 25m,51,G,2018,Animation,Comedy,Family,TRUE
+20,Bumblebee,1h 54m,66,PG,2018,Action,Adventure,Science-Fiction,FALSE
+21,Dying to Survive,1h 57m,63,PG,2018,Comedy,Drama,,FALSE
+22,A Star Is Born,2h 16m,88,G,2018,Drama,Music,Romance,TRUE
+23,Rampage,1h 47m,45,G,2018,Action,Adventure,Science-Fiction,FALSE
+24,Mamma Mia! Here We Go Again,1h 54m,60,PG,2018,Comedy,Musical,Romance,TRUE
+25,Solo: A Star Wars Story,2h 15m,62,PG,2018,Action,Adventure,Fantasy,TRUE
+26,Spider-Man: Into the Spider-Verse,1h 57m,87,PG,2018,Animation,Action,Adventure,TRUE
+27,Fifty Shades Freed,1h 45m,31,18A,2018,Drama,Romance,Thriller,TRUE
+28,Hello Mr. Billionaire,1h 58m,,,2018,Comedy,,,FALSE
+29,The Nun,1h 36m,46,14A,2018,Horror,Mystery,Thriller,FALSE
+30,Monster Hunt 2,1h50m,63,PG,2018,Adventure,Comedy,Fantasy,TRUE
+31,Peter Rabbit,1h 35m,51,PG,2018,Animation,Adventure,Comedy,FALSE
+32,Mary Poppins Returns,2h 10m,66,G,2018,Comedy,Family,Fantasy,TRUE
+33,A Quiet Place,1h 30m,82,14A,2018,Drama,Horror,Science-Fiction,FALSE
+34,Green Book,2h 10m,69,PG,2018,Biography,Comedy,Drama,FALSE
+35,Skyscraper,1h 42m,51,PG,2018,Action,Adventure,Thriller,FALSE
+36,Ocean's Eight,1h 50m,61,PG,2018,Action,Comedy,Crime,TRUE
+37,Pacific Rim: Uprising,1h 51m,44,PG,2018,Action,Adventure,Science-Fiction,TRUE
+38,Maze Runner: The Death Cure,2h 23m,50,PG,2018,Action,Adventure,Science-Fiction,TRUE
+39,Tomb Raider,1h 59m,48,PG,2018,Action,Adventure,Fantasy,TRUE
+40,Halloween,1h 46m,67,18A,2018,Horror,Thriller,,FALSE
+41,Crazy Rich Asians,2h,74,PG,2018,Comedy,Drama,Romance,FALSE
+42,Smallfoot,1h 36m,60,G,2018,Animation,Adventure,Comedy,FALSE
+43,Creed II,2h 10m,66,PG,2018,Drama,Sport,,TRUE
+44,Us and Them,2h,,,2018,Drama,Romance,,FALSE
+45,The Island,2h 14m,,,2018,Comedy,Fantasy,,FALSE
+46,Christopher Robin,1h 44m,,G,2018,Adventure,Comedy,Drama,FALSE
+47,The Equalizer 2,2h 1m,50,14A,2018,Action,Crime,Thriller,TRUE
+48,Project Gutenberg,2h 10m,,PG,2018,Action,Crime,Drama,FALSE
+49,The Mule,1h 56m,58,G,2018,Crime,Drama,Thriller,FALSE
+50,The Nutcracker and the Four Realms,1h 39m,39,PG,2018,Adventure,Family,Fantasy,TRUE
+51,Insidious: The Last Key,1h 43m,49,14A,2018,Horror,Mystery,Thriller,TRUE
