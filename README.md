@@ -134,7 +134,8 @@ ORDER BY
 LIMIT 10;
 ```
 ## Top 10 Highly Rated Films
-<img src="https://github.com/lydieb92/SQL_Project_Movies_Trends_Analysis/blob/main/Assets/Top%2010%20Highly%20Rated%20Films.png">
+<img src="Assets/Top 10 Highly Rated Films.png">
+(This table was created using ChatGPT 3.5).
 
 - Only Black Panther has earned a worldwide gross of more than $1 billion. Despite their high metascore ratings, the rest of the films do not achieve the same level of financial success as the top 10 grossing films. In fact, they fail to reach the $1 billion mark in comparison.
 - We can conclude that there is no correlation between a film's rating and its box office success, whether high or low.
@@ -158,6 +159,7 @@ LIMIT 10;
 ```
 ## Top 10 Grossing Films and Their Runtimes
 <img src="Assets/Top 10 Grossing Films and Their Runtimes.png">
+(This table was created using ChatGPT 3.5).
 
 - The average runtime of the top 10 grossing films is over 1 hour and 30 minutes.
 - The runtime for these movies ranges from 1 hour and 43 minutes to 3 hours and 12 minutes.
@@ -186,6 +188,7 @@ LIMIT 10;
 ```
 # Top 10 Grossing Films and Their Sequel Status
 <img src="Assets/Top 10 Grossing Films and Their Sequel Status.png">
+(This table was created using ChatGPT 3.5).
 
 100% of the top 10 grossing films (2018-2024) are sequels, indicating a strong correlation between box office success and sequel movies.
 
@@ -212,6 +215,7 @@ LIMIT 10;
 * PG: Parental guidance suggested
 * G: General audiences
 <img src="Assets/Top 10 Grossing Films and Their Ratings.png">
+(This table was created using ChatGPT 3.5).
 
 - All top 10 grossing films are suitable for general audiences. Parental guidance indicates that a movie may contain some scenes unsuitable for young children, but these movies are generally considered family-friendly.
 - From this dataset, we can conclude that there is a strong correlation between movie ratings and box office success. By delving deeper into the analysis, we can extract insights into what this correlation reveals about consumer preferences. I will further discuss this aspect in the conclusions. 
@@ -243,3 +247,4 @@ ORDER BY
 ```
 ## Worldwide Box Office Earnings (2018-2024)
 <img src="Assets/Worldwide box_office_earnings(2018-2024).png">
+(This chart/graph was created using ChatGPT 3.5).
