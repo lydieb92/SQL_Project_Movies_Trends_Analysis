@@ -238,3 +238,4 @@ GROUP BY
 ORDER BY
   SUM(worldwide_inflation) DESC;
 ```
+
