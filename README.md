@@ -136,7 +136,7 @@ ORDER BY
 LIMIT 10;
 ```
 ## Top 10 Films With High Metascores
-<img src="Assets/Top 10 Highly Rated Films.png">
+<img src="Assets/Top 10 Films With High Metascores.png">
 (This table was created using ChatGPT 3.5).
 
 - Only Black Panther has earned a worldwide gross of more than $1 billion. Despite their high metascore ratings, the rest of the films do not achieve the same level of financial success as the top 10 grossing films. In fact, they fail to reach the $1 billion mark in comparison.
@@ -250,3 +250,4 @@ ORDER BY
 ## Worldwide Box Office Earnings (2018-2024)
 <img src="Assets/Worldwide box_office_earnings(2018-2024).png">
 (This chart/graph was created using ChatGPT 3.5).
+
