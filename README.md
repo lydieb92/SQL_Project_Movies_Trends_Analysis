@@ -277,3 +277,8 @@ Throughout this project, I've put into practice what I have in my SQL toolkit.
 
 # Conclusions
 ## Insights
+- Insights about movie tastes and trends reveal that action movies dominate, constituting 37% of box office success. Sequels appear to draw the majority of box office consumers. Notably, among the top 10 grossing films spanning 2018 to 2024, the majority are blockbusters with a significant transition from the small screen to the big screen, indicating a preference for high-impact cinematic experiences. The runtime doesn't seem to significantly impact audience enjoyment, as long as the movie is entertaining.
+
+- Movie ratings play a crucial role in influencing box office success. Interestingly, all successful box office films are rated PG or G, making them suitable for most children. It would be intriguing to delve deeper into the demographics that contribute to box office successes. Although specific demographic data is unavailable, based on movie ratings, genres, and titles, it's evident that these films are family-oriented and youth-oriented, suggesting that families and young people are likely the primary demographics attracted to these movies.
+
+- The pandemic has undoubtedly had a detrimental impact on box office numbers. Speculatively, one contributing factor could be the shift in consumer behavior towards watching movies at home, a habit acquired during the pandemic, rather than purchasing movie tickets for theatrical releases. Additionally, the combination of high inflation and elevated interest rates in recent years may have constrained many individuals' discretionary spending, potentially limiting their ability to allocate budget towards movie outings.
