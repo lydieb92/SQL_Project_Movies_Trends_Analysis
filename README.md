@@ -267,3 +267,12 @@ ORDER BY
 - 2021 saw a significant resurgence as theaters began reopening across the globe.
 - Although the curve shows an upward trend from 2021 onwards, it never quite reached the levels of success seen in the previous years (2018-2019).
 
+# What I Learned
+
+Throughout this project, I've put into practice what I have in my SQL toolkit. 
+1. Joining tables and applying aggregation functions (SUM, COUNT).
+2. Formatting columns with CONCAT and TO_CHAR functions.
+3. Finding answers to complex questions through specific queries, and  drawing conclusions from the results.
+
+# Conclusions
+## Insights
