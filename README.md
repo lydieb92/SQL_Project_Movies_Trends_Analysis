@@ -219,3 +219,22 @@ LIMIT 10;
 # Global Box Office: Pre, During & Post Pandemic (2018-2024)
 
 To comprehend the pandemic's influence on box office figures, I scrutinized the global gross earnings spanning from 2018 to 2024. This process entailed filtering worldwide box office earnings by release year and executing a SUM aggregation to ascertain the total worldwide earnings for each year within the specified timeframe.
+-- We aimed to investigate the worldwide earnings from 2018 to 2024 to determine if the pandemic had an impact on earnings over time.
+
+``` SQL
+SELECT
+  year::integer AS release_year,
+  CONCAT(
+     '$',
+     RTRIM(TO_CHAR(SUM(worldwide_inflation), 'FM999,999,999,999.99'), '.')
+ ) AS total_worldwide
+FROM
+  box_office_2018_2024
+WHERE
+  year BETWEEN 2018 AND 2024
+GROUP BY
+  year::integer
+
+ORDER BY
+  SUM(worldwide_inflation) DESC;
+```
