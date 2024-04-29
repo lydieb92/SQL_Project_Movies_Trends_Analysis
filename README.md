@@ -108,6 +108,7 @@ LIMIT 10;
 ```
 ## Top 10 Grossing Films Metascore Ratings
 <img src="Assets/Top 10 Grossing Film Metascore Ratings.png">
+(This table was created using ChatGPT 3.5).
 
 - Of the top 10 grossing films from 2018 to 2024, 5 have a Metascore rating above 70, while the remaining 5 have a Metascore rating below 70
 - This initial data suggests that there is no clear correlation between film ratings and box office success. 
@@ -133,7 +134,7 @@ ORDER BY
  top_50_2018_2024.worldwide_inflation DESC
 LIMIT 10;
 ```
-## Top 10 Highly Rated Films
+## Top 10 Films With High Metascores
 <img src="Assets/Top 10 Highly Rated Films.png">
 (This table was created using ChatGPT 3.5).
 
