@@ -90,7 +90,7 @@ LIMIT 10;
 
 I analyzed the relationship between box office success and film metascore ratings among the top ten grossing films (2018-2024) by performing an inner join on two tables to retrieve the ratings of these films.
 
-Metascore: A film's rating based on reviews from a wide array of respected critics. Weighted averages summarize their collective opinions.e.
+Metascore: A film's rating based on reviews from a wide array of respected critics. Weighted averages summarize their collective opinions.
 
 ``` SQL
 SELECT
